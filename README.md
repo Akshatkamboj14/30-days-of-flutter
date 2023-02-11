@@ -1,4 +1,4 @@
-# flutter_application_1
+# 30 Days Of Flutter
 
 A new Flutter project.
 
